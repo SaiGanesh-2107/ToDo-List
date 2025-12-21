@@ -36,16 +36,16 @@ ToDo-List/
 
 ---
 
+
 ## ▶️ How to Run the Project
 
-1. Clone the repository  
+1. Install Flask
+   pip install flask
+2. Run the application
+   python app.py
+3. Open your browser and visit
+   http://127.0.0.1:5000
 
-2. Go to the project folder  
-
-3. Install Flask  
-
-5. Open your browser and visit  
-http://127.0.0.1:5000
 
 ---
 
